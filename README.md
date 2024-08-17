@@ -3,7 +3,7 @@ In this project I analyzed the players and teams metrics of the 2017 WNBA season
 
 - For more looks at how I created the tables using SQL feel free to check out my attached SQL code : SQLite.sql
 
-- For a more visual representation of stats of the 2017 WNBA you can also check out my Tableau dashboard: 2017 WNBA Season Tableau.twb
+- For a more visual representation of stats of the 2017 WNBA check out my Tableau dashboard: 2017 WNBA Season Tableau.twb
 
 
 ![image](https://github.com/user-attachments/assets/06469ee4-9663-418e-82a0-db6538228333)
