@@ -1,5 +1,5 @@
 # 2017-WNBA-SQL-Project
-This project contains an Exploratory data analysis and a more in depth data analysis of players and teams metrics of the 2017 WNBA season using SQL. As a fan of the league since 2016 my favorite players are Candace Parker and Maya Moore. In this project you will see what the WNBA is numerically comprised of. With the league reaching new heights in 2024 its amazing to see how the game has grown over time. 
+This project contains an Exploratory data analysis and a more in depth data analysis of players and teams metrics of the 2017 WNBA season using SQL. As a fan of the league since 2016 my favorite players are Candace Parker and Maya Moore. In this project you will see what the WNBA (numerically) is comprised of. With the league reaching new heights in 2024 its amazing to see how the game has grown over time. 
 
 - For more looks at how I created the tables using SQL feel free to check out my attached SQL code :[ SQLite.sql](https://public.tableau.com/app/profile/laquan.mims/vizzes) 
 
