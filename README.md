@@ -3,8 +3,8 @@ This project contains an Exploratory data analysis and a more in depth data anal
 
 - For more looks at how I created the tables using SQL feel free to check out my attached SQL code :[ SQLite.sql](https://public.tableau.com/app/profile/laquan.mims/vizzes) 
 
-- For a more visual representation of stats of the 2017 WNBA check out my Tableau dashboard: 2017 WNBA Season Tableau.twb
-
+- For a more visual representation of stats of the 2017 WNBA check out my Tableau dashboard: [2017 WNBA Season Tableau.twb
+](https://public.tableau.com/app/profile/laquan.mims/viz/2017WNBADashBoard/2017WNBASeason)
 
 ![image](https://github.com/user-attachments/assets/06469ee4-9663-418e-82a0-db6538228333)
 ![image](https://github.com/user-attachments/assets/d7b0243a-1772-4d27-9575-23e3bd232060)
